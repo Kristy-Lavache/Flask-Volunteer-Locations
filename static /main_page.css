@@ -1,0 +1,20 @@
+#map{
+width:200px;
+height:200px;
+border:2px solid black;
+}
+h1{
+    text-align:center;
+    text-decoration:underline;
+}
+#direc{
+    font-weight:bold;
+    color:#0074BA;
+}
+ol{
+    color:#009933;
+}
+#button{
+    float:right;
+    color:red;
+}
